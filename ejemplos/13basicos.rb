@@ -1,4 +1,4 @@
-#1
+#1ruby
 
 for i in(1..255)
     puts i
